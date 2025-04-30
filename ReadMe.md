@@ -36,54 +36,6 @@ I am a dynamic IT professional with a passion for exploring innovative technolog
 ### Tools & Platforms  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style-for-the-badge&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style-for-the-badge&logo=ubuntu&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style-for-the-badge&logo=microsoftazure&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style-for-the-badge&logo=streamlit&logoColor=white)  
 
-## 🚀 Projects  
-### Chat-bot Project Manager for Toyota  
-- Developed a chatbot system to manage projects with chat messages, progress statistics (EV, PV, AC), and progress prediction.  
-- Built chatbot, exposed APIs, and deployed models using vLLM.  
-- **Technologies**: React.js, vLLM, Langchain, FastAPI, Time-Series  
-- **Mar 2025 - Mar 2025**  
-
-### Chat-bot Mail Proposal  
-- Built a system to collect email requirements from Gmail/Outlook, analyze them via chatbot, and send proposal emails.  
-- **Technologies**: Langchain, Azure, MSAL, FastAPI, Streamlit  
-- **Mar 2025 - Apr 2025**  
-
-### Multi-Agent System  
-- Developed an intelligent multi-agent system for question answering, integrating multimodal processing (images, sounds) with RAG and smolagent.  
-- **Technologies**: Python, Smolagent, RAG, Langchain  
-- **Jan 2025 - Present**  
-
-### Chatbot Agent with Langchain  
-- Built a chatbot using Langchain with RAG, memory store, history, and conversation capabilities.  
-- **Technologies**: Langchain, Python, RAG  
-- **Dec 2024**  
-
-### Analysis Chatbot System for DensoVN  
-- Developed an analysis chatbot system for DensoVN as part of an internship project.  
-- **Technologies**: Langchain, vLLM, Python  
-- **Dec 2024 - Present**  
-
-### Detect Beer Brand Logo (Hackathon)  
-- Built a website to detect beer brand logos, customer emotions, and count people drinking beer.  
-- Contributed to model building, data collection/labeling, and back-end development.  
-- **Technologies**: Python, TensorFlow, FastAPI, React.js  
-- **Jun 2024 - Jul 2024**  
-
-### Human Activity Recognition for In-Game Control  
-- Developed a system using smart cameras to track human activity and control in-game characters.  
-- **Technologies**: Python, Computer Vision, TensorFlow  
-- **Oct 2024**  
-
-### FakeFaceBook API  
-- Built an API system mimicking Facebook functionalities (login, OAuth2, posts, friends, interactions).  
-- **Technologies**: Nest.js, JWT, Fastify, Crypto, OAuth2, Swagger  
-- **May 2024 - Jun 2024**  
-
-### MysteryBooks  
-- Developed a social platform with post-creation and messaging features using Java and SQL.  
-- **Technologies**: Java, SQL, Front-end/Back-end Development  
-- **Nov 2023 - Dec 2023**  
-
 ## 🛠️ Experience  
 ### AI Engineer Intern, FPT Software  
 - Explored and applied RAG, Agentic, Langchain, Ollama, and vLLM technologies.  
