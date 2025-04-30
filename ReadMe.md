@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Thien Phu</h1>
 <h3 align="center">A Passionate Back-End Developer and AI Researcher</h3>
 
 ## 💫 About Me
@@ -7,17 +7,17 @@
 - 👨‍💻 Currently working on enhancing AI-driven solutions.
 - 🌱 Learning more about advanced LLM finetuning and full-stack optimization.
 - 💬 Ask me about AI, web development, or research methodologies!
-- 📍 Based in [Your Location].
+- 📍 Based in Ho Chi Minh.
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thienphuprogrammer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienphuprogrammer&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thienphuprogrammer&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ## 💻 Tech Stack
@@ -55,10 +55,10 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100010918652375" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.linkedin.com/in/thien-phu-nn-466352248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[https://www.facebook.com/profile.php?id=100010918652375](https://www.facebook.com/dominico.phu.nguyen)" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="[https://www.linkedin.com/in/thien-phu-nn-466352248/](https://www.linkedin.com/in/phu-nguyen-ngoc-thien-466352248/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="thỉenphuprogrammer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## 👀 Visitors
-![Visitor Count](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0)
+![Visitor Count](https://visitcount.itsvg.in/api?id=thienphuprogrammer&icon=0&color=0)
