@@ -51,7 +51,7 @@
 
 ## 🎓 Education
 - **Bachelor of Science in Information Technology**  
-  FPT University, [Year of Graduation]
+  FPT University, May 2026
 
 ## 🌐 Connect With Me
 <p align="left">
