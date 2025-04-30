@@ -36,22 +36,6 @@
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 🚀 Projects
-### AI Chatbot Development
-- Developed and refined chatbot models using Langchain and Ollama.
-- Focused on integrating RAG and LLM for enhanced conversational abilities.
-- [Link to Repository]
-
-### Full-Stack Web Application
-- Built a secure web app with Nest.js (back-end) and React.js (front-end).
-- Implemented authentication using JWT and OAuth2 protocols.
-- [Link to Repository]
-
-### Academic Research Paper
-- Authored and presented a paper on [specific AI topic] at [conference name].
-- Explored [brief topic overview, e.g., Computer Vision techniques].
-- [Link to Paper/Repository]
-
 ## 🛠️ Experience
 ### AI Crew Leader, FPTU Club
 - Led a team in researching and implementing AI technologies.
