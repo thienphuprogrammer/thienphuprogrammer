@@ -2,13 +2,15 @@
 ### AI Engineer | AI Researcher | Backend Developer  
 
 ## 💫 About Me  
-I am an Information Technology student with a strong interest in Artificial Intelligence, backend engineering, and applied research. My work focuses on building practical AI systems, especially chatbot platforms, multi-agent workflows, and intelligent applications that can solve real-world problems.
+I am an Information Technology student at FPT University with a strong passion for Artificial Intelligence, backend engineering, and applied research. My academic and technical journey has been shaped by a deep curiosity for how intelligent systems can be designed, built, and applied to solve meaningful real-world problems.
 
-I enjoy combining research thinking with software engineering practice. Alongside AI research and paper writing, I also build backend systems and web applications, which helps me turn ideas into deployable products. My long-term goal is to develop AI and robotics solutions that create meaningful value for people and communities.
+My work lies at the intersection of AI research and software engineering. I have experience in developing AI-driven chatbot systems, exploring RAG pipelines, agentic workflows, and LLM-based applications, while also building backend systems and web-based products. This combination allows me to move from research ideas to practical implementation with a strong engineering mindset.
 
-- 👨‍💻 Currently working on AI chatbot systems, RAG pipelines, and multi-agent applications  
-- 🌱 Learning more about LLM fine-tuning, agentic AI systems, and scalable backend architecture  
-- 💬 Interested in AI, backend development, LLM applications, and research projects  
+Beyond technical development, I am also deeply interested in the long-term role of AI and Robotics in supporting people and communities. I aim to contribute to systems that are not only technically strong, but also useful, accessible, and impactful.
+
+- 👨‍💻 Currently working on AI chatbot systems, RAG applications, and multi-agent workflows  
+- 🌱 Learning more about LLM fine-tuning, agentic AI, backend architecture, and intelligent systems  
+- 🧠 Interested in AI research, backend engineering, applied LLMs, and robotics-oriented innovation  
 - 📍 Based in Ho Chi Minh City, Vietnam  
 
 ## 📊 GitHub Stats  
@@ -42,7 +44,7 @@ I enjoy combining research thinking with software engineering practice. Alongsid
 
 ### Backend / Web Development  
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -66,27 +68,27 @@ I enjoy combining research thinking with software engineering practice. Alongsid
 
 ### AI Engineer Intern — FPT Software  
 **Dec 2024 - Present**  
-- Explored and applied technologies related to RAG, agentic AI, LangChain, Ollama, and vLLM  
-- Contributed to AI-driven systems such as a Chatbot Project Manager System and an Analysis Chatbot System  
-- Strengthened practical experience in building real-world AI applications and solving engineering problems  
+- Explored and applied technologies related to Retrieval-Augmented Generation (RAG), agentic AI, LangChain, Ollama, and vLLM  
+- Contributed to the development of AI-driven systems, including a Chatbot Project Manager System and an Analysis Chatbot System  
+- Strengthened practical engineering and problem-solving skills through real-world AI application development  
 
 ### Leader — AI Crew, F-Code Club  
 **Mar 2024 - Dec 2024**  
-- Led and mentored more than 20 members in AI learning and research activities  
-- Designed learning paths, organized knowledge-sharing sessions, and supported research development  
-- Guided members in paper writing, experimentation, and academic presentation preparation  
+- Led and mentored more than 20 members in AI learning, research, and technical growth  
+- Designed learning paths and organized knowledge-sharing activities for AI research and development  
+- Guided members in research workflow, paper writing, and presentation preparation  
 
 ### Web Developer — FPTU Club  
 **2023 - 2024**  
-- Participated in developing web applications with a strong focus on backend systems  
-- Supported frontend implementation using React.js when needed  
-- Worked in collaborative environments to deliver practical student and club projects  
+- Participated in building web applications with a primary focus on backend development  
+- Supported frontend implementation and collaboration using React.js when needed  
+- Contributed to practical team projects in student and club environments  
 
 ### AI Researcher  
 **2023 - Present**  
 - Conducted research in AI-related topics, especially chatbot systems and intelligent applications  
-- Worked on academic writing and research presentation for international conferences  
-- Combined research knowledge with implementation skills to build applied AI solutions  
+- Worked on academic writing and presentations for international conferences  
+- Combined research knowledge with implementation experience to build applied AI solutions  
 
 ## 🎓 Education  
 **Bachelor of Science in Information Technology**  
